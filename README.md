@@ -15,7 +15,7 @@ git clone https://github.com/jdfwsp/pythonic_monopoly.git
 ```
 ### Step 2 : Enter the directory containing the script
 ```
-cd pythonic_monopoly/Starter_Code
+cd pythonic_monopoly/Code
 ```
 ### Step 3 : Display script permissions
 ```
