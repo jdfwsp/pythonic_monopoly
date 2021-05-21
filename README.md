@@ -24,7 +24,7 @@ ls -l run.sh
 🚨 You should get an output like this with ``run.sh`` marked as executable (with an x)- proceed to Step 4
 ```
 
--rwxrwxr-x 1 user user     27 May 20 12:14 run.sh
+-rwxrwxr-x 1 user user      27 May 20 12:14 run.sh
 ```
 🚨 If you see this, it is NOT executable- proceed to Step 3+
 ```
