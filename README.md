@@ -7,37 +7,38 @@ Image by Joost Daniels
 #### This second notebook organizes the analysis code so that it can be displayed in a Panel presentation:
 [Dashboard](https://github.com/jdfwsp/pythonic_monopoly/blob/main/Starter_Code/dashboard.ipynb)
 
-## Procedure for viewing the presentation:
-### Step 1
+## Procedure for viewing the presentation
+#### Enter these commands into your terminal (GitBash or WSL on Windows):
+### Step 1 : Clone the repository
 ```
 git clone https://github.com/jdfwsp/pythonic_monopoly.git
 ```
-### Step 2
+### Step 2 : Enter the directory containing the script
 ```
 cd pythonic_monopoly/Starter_Code
 ```
-### Step 3
+### Step 3 : Display script permissions
 ```
 ls -l run.sh
 ```
-You should get an output like this with ``run.sh`` marked as executable (with an x)- proceed to Step 4
+🚨 You should get an output like this with ``run.sh`` marked as executable (with an x)- proceed to Step 4
 ```
 
 -rwxrwxr-x 1 wh wh      27 May 20 12:14 run.sh
 ```
-If you see this, it is NOT executable- proceed to Step 3+
+🚨 If you see this, it is NOT executable- proceed to Step 3+
 ```
 -rw-rw-r-- 1 wh wh      27 May 20 12:14 run.sh
 ```
-### Step 3+
+### Step 3+ : Make script executable
 ```
 chmod +x run.sh
 ```
-### Step 4
+### Step 4 : Execute script
 ```
 ./run.sh
 ```
-### Step 5
+### Step 5 : Open presentation in browser
 Paste ``http://localhost:5006/dashboard`` into your browser and explore the Dashboard!!
 
 
