@@ -1,11 +1,15 @@
 # 🐍🏘️🎩 PYTHONIC MONOPOLY 🎩🏘️🐍
 ![San Francisco image by Joost Daniels](https://lp-cms-production.imgix.net/2019-06/9cf024dfd5c0bcb2b17f4785340145ea-san-francisco.jpg)
 Image by Joost Daniels
-#### This is an analysis of rentals in the neighborhoods of San Francisco, CA.  It examines the average price per square foot and gross rent in every neighborhood over a 5-year period.  The first notebook works out all of the analysis:
+#### This is an analysis of rentals in San Francisco neighborhoods.  It examines the average price per square foot and gross rent in every neighborhood over a 5-year period.  The first notebook works out all of the analysis:
 [Rental Anlysis](https://github.com/jdfwsp/pythonic_monopoly/blob/main/Code/rental_analysis.ipynb)
 
 #### This second notebook organizes the analysis code so that it can be displayed in a Panel presentation:
 [Dashboard](https://github.com/jdfwsp/pythonic_monopoly/blob/main/Code/dashboard.ipynb)
+
+⚠️ Script versions of the notebooks are saved in the ```Code``` directory:
+* [Analysis](https://github.com/jdfwsp/pythonic_monopoly/blob/main/Code/analysis.py)
+* [Dash](https://github.com/jdfwsp/pythonic_monopoly/blob/main/Code/dash.py)
 
 ## Procedure for viewing the presentation
 #### Enter these commands into your terminal (GitBash or WSL on Windows):
